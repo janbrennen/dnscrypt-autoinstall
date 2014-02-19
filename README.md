@@ -10,9 +10,9 @@ choose which DNSCrypt service to use and easily reconfigure DNSCrypt and uninsta
 
 This script should work on new(er) debian'ish releases.
 
-Todo: proper init script, download newest version, handle failed download, fix quirks
+Todo: download newest version, handle failed download, fix quirks
 
 ## Installation
-`wget https://raw.github.com/simonclausen/dnscrypt-autoinstall/master/dnscrypt-autoinstall.sh`
+`wget https://raw.github.com/janbrennen/dnscrypt-autoinstall/master/dnscrypt-autoinstall.sh`
 `chmod +x dnscrypt-autoinstall.sh`
 `./dnscrypt-autoinstall.sh`
